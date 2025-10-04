@@ -1,0 +1,16 @@
+{
+    "name": "artur/dating_php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Artur\\DatingPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artur Mukhamediarov",
+            "email": "arturmuhamediarov@gmail.com"
+        }
+    ],
+    "require": {}
+}
